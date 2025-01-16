@@ -2,5 +2,5 @@
 
 No devuelve una lista de templates que podemos utilizar
 ```
-dotnet new --lis
+dotnet new --list
 ```
