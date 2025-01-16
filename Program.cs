@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Ingresa un nombre:");
+var nombre = Console.ReadLine();
+Console.WriteLine("Cargo:");
+var cargo = Console.ReadLine();
+Console.WriteLine("Edad:");
+var edad = Console.ReadLine();
+
+Console.WriteLine($"Mi nombre es {nombre}, trabajo como {cargo} y tengo {edad} añoss");
