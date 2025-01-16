@@ -26,7 +26,7 @@ Para restaurar las dependencias o las librerias del proyecto
 dotnet restore
 ```
 
-Noss permite ejecutar el proyecto y va revisando los cambios del proyecto en tiempo real (similar a nodemon en node)
+Nos permite ejecutar el proyecto y va revisando los cambios del proyecto en tiempo real (similar a nodemon en node)
 ```
 dotnet watch run
 ```
