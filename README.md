@@ -6,6 +6,11 @@ Para crear un proyecto
 dotnet new project_template
 ```
 
+Para crear un nuevo proyecto indicandole el nombre. Estariamos creando un proyeto con nombre 'Dependencies' utilizando la template 'webapi'
+```
+dotnet new webapi -n Dependencies
+```
+
 No devuelve una lista de templates que podemos utilizar
 ```
 dotnet new --list
